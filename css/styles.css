@@ -1,10 +1,12 @@
 .text {
-  color:#003399;
+  color:orange;
+  padding-left:80px;
+  padding-right:80px;
 }
 
 
 h1 {
-  align-items: center;
+  align-items:center;
   font-family:cursive;
   background-color: teal;
 }
@@ -48,4 +50,49 @@ body {
     border-style:outset;
     border-color: #707070;
 
+}.titles2 {
+  font-size: 18px;
+  color:#0000FF;
+  font-weight: bolder;
+  text-align: center;
+}
+
+.titlenew {
+  align-items:center;
+  font-family:cursive;
+  background-color: orange;
+  font-size:14px;
+  padding-top: 2%;
+  padding-left: 4px;
+  padding-bottom: 1%;
+  border-radius: 90px;
+
+}
+
+li {
+  color:#990000;
+}
+
+.myname {
+  text-decoration: underline;
+}
+
+.weclome {
+  color: #003399;
+}
+
+h2 {
+  align-items:center;
+  font-family:cursive;
+  background-color: orange;
+  font-size:18px;
+  padding-left: 40px;
+  padding-bottom: 1%;
+  border-radius: 70px;
+  padding-top: 8px;
+}
+.aboutme {
+  font-family:cursive;
+  background-color: orange;
+  font-size:18px
 }
