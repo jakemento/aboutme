@@ -7,8 +7,7 @@ This is a website I created for my first code review. It serves as the main page
 navigate to the site I built and follow the links that showcase the websites I have built this week
 
 ###Link
-
-
+http://jakemento.github.io/aboutme/
 ##Legal
 Copyright(c) 2015 Jacob Steinberg
 
