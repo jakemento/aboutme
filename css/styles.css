@@ -1,0 +1,45 @@
+.text {
+  color:#003399;
+}
+
+
+h1 {
+  align-items: center;
+  font-family:cursive;
+  background-color: teal;
+}
+
+html {
+  background-color: #707070;
+}
+
+.center {
+  align-items: center;
+}
+
+h3 {
+  align-items:center;
+}
+
+body {
+  background-color: #ccff99;
+}
+
+
+.personal {
+  text-decoration: underline;
+  text-align: center;
+  text-transform: capitalize;
+  text-decoration: overline;
+  color: gray;
+}
+
+.pics {
+    width: 20%;
+    z-index: 0;
+    height: 220px;
+    border: 2px;
+    border-style:outset;
+    border-color: #707070;
+
+}
