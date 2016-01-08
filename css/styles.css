@@ -46,8 +46,8 @@ body {
     width: 50%;
     z-index: 0;
     height: 220px;
-    border: 2px;
-    border-style:outset;
+    border: 8px;
+    border-style:ridge;
     border-color: #707070;
 
 }.titles2 {
@@ -75,6 +75,7 @@ li {
 
 .myname {
   text-decoration: underline;
+  font-size:14px;
 }
 
 .weclome {
@@ -95,4 +96,37 @@ h2 {
   font-family:cursive;
   background-color: orange;
   font-size:18px
+}
+
+.pics2 {
+    float: right;
+}
+
+.p4class {
+    float: left;
+    font-size: 18px;
+    color:#teal;
+    font-weight: bolder;
+    text-align: center;
+
+}
+
+.pics3 {
+  height: 80px;
+  width: 80px;
+  float:left;
+  padding-left: 10px;
+  border-width: thick;
+  border-style: double;
+  border-color: orange;
+}
+
+.pics4 {
+  height: 80px;
+  width: 80px;
+  float:right;
+  padding-right: 10px;
+  border-width: thick;
+  border-style: double;
+  border-color: orange;
 }
