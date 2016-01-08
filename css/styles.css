@@ -99,16 +99,17 @@ h2 {
 }
 
 .pics2 {
-    float: right;
+    float:inherit;
+    width: 150px;
+    height: 150px;
 }
 
-.p4class {
+.jake{
     float: left;
     font-size: 18px;
     color:#teal;
     font-weight: bolder;
     text-align: center;
-
 }
 
 .pics3 {
@@ -129,4 +130,9 @@ h2 {
   border-width: thick;
   border-style: double;
   border-color: orange;
+}
+
+.personal p {
+  font-size: 16px;
+  font-family: fantasy;
 }
